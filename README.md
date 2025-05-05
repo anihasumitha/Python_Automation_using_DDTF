@@ -1,8 +1,4 @@
 # Python_Automation_using_DDTF
-Automated login testing for OrangeHRM using Selenium, Python, Pytest, and Excel-based Data-Driven Testing Framework with Page Object Model for clean test structure.
-
-
-# OrangeHRM Login Automation | Selenium + DDTF
 
 This project automates login functionality on the [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/) using Python, Selenium WebDriver, and a custom-built Data-Driven Testing Framework (DDTF).
 
