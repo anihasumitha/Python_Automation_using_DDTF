@@ -1,3 +1,4 @@
+#All data used for login functions
 
 class LoginData:
     login_url="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
